@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khoa Nguyen
 - 👀 I’m interested in Apple Platform, focus on Swift language.
-- 🌱 I’m currently learning system design,
+- 🌱 I’m currently learning system design, clean code, TDD...
 - 💞️ I’m looking to collaborate on any project on Apple Platform.(iOS, macOS, iPadOS)
 - 📫 Don't hestiate to invite me to your project. You can contact me via email nguyendangkhoa96nt@gmail.com
 
